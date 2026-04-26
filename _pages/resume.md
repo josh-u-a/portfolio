@@ -7,10 +7,10 @@ published: true
 
 
 <!-- # Education
-**Western Washington University** - *September 2015 - June 2019*
+**Western Washington University**
 - Bachelors of Science in Physics, Minors in Mathematics and Astronomy
 
-**Northwest Florida State College** - *2012-2014*
+**Northwest Florida State College**
 - A.A. in Physics
 
 # Certification
@@ -22,7 +22,15 @@ published: true
 - **Software & Tools:** Relational Databases, BigQuery, Tableau, PowerBI, PostgreSQL, LaTeX, Mathematica, MS Office, MS SQL, LabView, Photoshop, Salesforce, JIRA, Google Apps Script, Power Query
 
 # Experience
-## Data Analyst/REVOPS - *April 2022 - Present*
+
+## Data Scientist - *April 2024 - Present
+**Konica Minolta Business Solutions**
+- Build machine learning forecasting models using Python and libraries such as pandas, sci-kit learn, Optuna, and more. 
+- Automate and analyze reports using Python, SQL, Excel, Big Query, and Looker for operational insights.  
+- Develop dashboards in Looker, Streamlit, and Power BI using Python, SQL, LookML, and DAX.  
+- Research, Plan, and Develop Conversational Analytics AI agents
+
+## Data Analyst/REVOPS - *April 2022 - April 2024*
 **Sisu Software Inc.**
 - Developed python tools for data validation and processing, reducing process time by 90%.
 - Developed tools for validating templates, analyzed churn data using pandas, and created python script for processing & analyzing data, creating KPIs, sending automatic emails, and uploading to Salesforce.
